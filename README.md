@@ -21,4 +21,5 @@ HTML5 | CSS3
 
   
 ## GIF
-![chrome-capture-2023-4-13 (2)](https://github.com/Halismelih1/E-Commerce-Layout-with-CSS3/assets/125564176/61476c93-a5f3-4b3d-82f4-5cf08ff03958)
+![chrome-capture-2023-4-13 (3)](https://github.com/Halismelih1/E-Commerce-Layout-with-CSS3/assets/125564176/f01e91e7-46c0-4b66-8dd5-1cc556239b45)
+
